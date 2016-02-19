@@ -1,0 +1,42 @@
+Anthony Diaz
+Moises Baez
+Period 5 App Academy
+Started: 02-18-16
+
+APP Academy Cap-Stone Project
+Project Idea: A R2-D2 inspired App Academy Robot
+
+This is the part where I set my expections really high and watch them get 
+crushed in front of my eyes. Just Kidding. This is the general direction 
+I shall take my droid project in to try and pace myself instead of "going 
+all in". Eveything may not be completely finished but At leat you know what 
+I was going for at the end. 
+
+This document will be updated as I complete desired feature or think of more. 
+And once the project is done, all features can be found here.
+
+Brainstorming:
+
+Possible R2 Features:			Completed: Y/N		Date:
+- Fully Constructed R2 Droid		
+- Bluetooth Control Setup		
+- Custom Bluetooth Controller		
+- Head Turn Ability
+- Working Projector (How Cool!)		
+- Retractable 3rd Leg			
+- LASERZ :D				
+- LED stuff
+- Speakers and Sound
+- Interactable Panels with LEDs		
+- Life Scanner on head			
+- Camera on Eye to record		
+- 
+
+Links
+-----------------
+- Connecting a PS3 controller to Arduino
+https://www.youtube.com/watch?v=q3vXTX6Qe54&index=6&list=PLO0f6Q4xsjjWqoDQfAfPn82070dT52kQ8
+- James Bruton's R6 Droid Playlist
+https://www.youtube.com/watch?v=r6OZc07wp_g&list=PLpwJoq86vov9_0JeWSmoJSQCyFh-1q5LS&index=25
+- James Bruton's GitHub
+https://github.com/xrobots

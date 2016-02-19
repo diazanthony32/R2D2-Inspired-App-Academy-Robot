@@ -1,0 +1,21 @@
+Anthony Diaz
+Moises Baez
+Period 5
+02-09-16
+
+APP Academy Cap-Stone Project Proposal
+Project Idea: A R2-D2 inspired App Academy Robot
+
+For my final capstone project, I have decided on making a R2-D2 inspired App Academy Robot. 
+The reason why I decided on something so demanding because I want to push myself further than 
+I have before, I’ve done many simple projects and I kinda want to experiment with what I have 
+done this year with Arduino. Why a robot? Well, I wanted incoming freshmen to have a reason to 
+be excited to join the App Academy and stay through all the years, like how I did when first 
+joining the App Academy through Dexter. 
+
+Many challenges I might face while creating this robot is resources. I don’t know exactly how 
+much I would need for such an ambitious project so to estimate, I would have to build a small 
+scale version. That way I could make small mistakes instead of Blowing out all in one go. The 
+thing I shall tackle first would be the use of a controller to send signals to and fro the droid. 
+Of course with coding, there are a lot of errors made so that can be expected as well. This 
+project will be heavily inspired by James Bruton's R6 Droid. (https://www.youtube.com/user/jamesbruton)

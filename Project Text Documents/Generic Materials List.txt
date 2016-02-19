@@ -1,0 +1,35 @@
+Anthony Diaz
+Moises Baez
+Period 5 App Academy
+Started: 02-18-16
+
+APP Academy Cap-Stone Project
+Project Idea: A R2-D2 inspired App Academy Robot
+
+This is what I (and you if you do it too) may need for this ambitous project.
+I don't currently have a defined list (probably won't) of what exactly this
+project may need but this will give me a general jist of things.
+
+Materials:
+
+Electronics
+----------------
+- Arduino Uno
+- Computer with Arduino Software
+- PS3 Controller
+- USB Host Shield
+- Dongle Bluetooth
+- Motor Servos
+- Autodesk 123D Design (for modeling)
+- LEDs (Matrix)
+- 
+
+Other Stuff
+-----------------
+- 3D printer
+- 3D Filament (Lots Of It)
+- Time (Lots of this too)
+- Wires For Days
+- Slip rings (For head turning)
+- Wheels
+- Screws and Nuts of different arrangements
