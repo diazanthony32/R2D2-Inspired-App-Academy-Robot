@@ -9,7 +9,7 @@ Project Idea: A R2-D2 inspired App Academy Robot
 This is the part where I set my expections really high and watch them get 
 crushed in front of my eyes. Just Kidding. This is the general direction 
 I shall take my droid project in to try and pace myself instead of "going 
-all in". Eveything may not be completely finished but At leat you know what 
+all in". Eveything may not be completely finished but At least you know what 
 I was going for at the end. 
 
 This document will be updated as I complete desired feature or think of more. 
